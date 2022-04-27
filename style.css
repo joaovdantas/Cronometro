@@ -32,10 +32,11 @@ img {
 
 button {
     cursor: pointer;
+    border-radius: 50%;
 }
 
 i {
-    font-size: 45px;
+    font-size: 50px;
 }
 
 #btnPause {
@@ -49,6 +50,6 @@ i {
     }
 
     i {
-        font-size: 35px;
+        font-size: 40px;
     }
 }
